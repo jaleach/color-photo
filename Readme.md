@@ -8,4 +8,4 @@
 Created using
 
 
-- `Bootstrap`: Created using Bootstrap
+- `parallax-template 4`: Created using Materialize
